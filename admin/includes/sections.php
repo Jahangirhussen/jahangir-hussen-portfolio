@@ -12,7 +12,7 @@ return [
             'venue'     => ['label' => 'Venue / Journal', 'type' => 'text'],
             'year'      => ['label' => 'Year', 'type' => 'number'],
             'citations' => ['label' => 'Citations', 'type' => 'number'],
-            'type'      => ['label' => 'Type', 'type' => 'select', 'options' => ['journal', 'conference', 'book']],
+            'type'      => ['label' => 'Type', 'type' => 'select', 'options' => ['journal', 'conference', 'book', 'dataset']],
             'doi'       => ['label' => 'DOI (e.g. 10.1000/xyz)', 'type' => 'text'],
         ],
     ],

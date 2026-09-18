@@ -1,0 +1,7 @@
+[
+  { "name": "Intro to Machine Learning", "org": "Kaggle", "meta": "Course Certificate", "link_url": "https://www.kaggle.com/learn/certification/jahangirhussen/intro-to-machine-learning" },
+  { "name": "Pandas", "org": "Kaggle", "meta": "Course Certificate", "link_url": "https://www.kaggle.com/learn/certification/jahangirhussen/pandas" },
+  { "name": "Intro to Deep Learning", "org": "Kaggle", "meta": "Course Certificate", "link_url": "https://www.kaggle.com/learn/certification/jahangirhussen/intro-to-deep-learning" },
+  { "name": "Data Cleaning", "org": "Kaggle", "meta": "Course Certificate", "link_url": "https://www.kaggle.com/learn/certification/jahangirhussen/data-cleaning" },
+  { "name": "Python", "org": "Kaggle", "meta": "Course Certificate", "link_url": "https://www.kaggle.com/learn/certification/jahangirhussen/python" }
+]
