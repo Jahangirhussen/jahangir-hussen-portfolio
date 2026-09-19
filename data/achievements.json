@@ -1,0 +1,7 @@
+[
+  { "icon": "🏆", "title": "ICPC Preliminary 2024", "value": "Ranked 360/2500 teams", "desc": "International Collegiate Programming Contest, Asia West Continent preliminary round." },
+  { "icon": "🏆", "title": "ICPC Preliminary 2023", "value": "Ranked 1170/2500 teams", "desc": "International Collegiate Programming Contest, Asia West Continent preliminary round." },
+  { "icon": "🧠", "title": "LeetCode", "value": "1665 rating", "desc": "500+ problems solved across Algorithms & Data Structures." },
+  { "icon": "⚔️", "title": "Codeforces", "value": "1220 (Pupil)", "desc": "250+ problems solved across active contests." },
+  { "icon": "👨‍🍳", "title": "CodeChef", "value": "1585 rating", "desc": "Competitive algorithms and contest problem solving." }
+]
